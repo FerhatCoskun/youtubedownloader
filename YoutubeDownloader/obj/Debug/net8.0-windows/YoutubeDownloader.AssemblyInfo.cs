@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YoutubeDownloader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac42ef83b55ba8da5d44f8dac33ea43379bb4c48")]
 [assembly: System.Reflection.AssemblyProductAttribute("YoutubeDownloader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YoutubeDownloader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
